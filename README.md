@@ -1,15 +1,17 @@
 <p align="center"><img src="./mac-pulse-icon.png" alt="Mac Pulse app icon" width="80" height="80"></p>
-<h1 align="center">Mac Pulse</h1>
-<p align="center">CPU, memory, disk, and network readings in your Mac’s menu bar.</p>
+<h1 align="center">Pulse</h1>
+<p align="center">The official home of <strong>Mac Pulse by Shahariar Jaman</strong>.</p>
 <p align="center"><strong>macOS 14 or later</strong> · Apple silicon and Intel · Free</p>
 
-[Releases](https://github.com/shrotshahariar/Mac-Pulse/releases) · [FAQ](FAQ.md) · [Contact the developer](CONTACT.md)
+[Releases](https://github.com/shrotshahariar/Pulse/releases) · [FAQ](FAQ.md) · [Contact the developer](CONTACT.md)
 
-## Getting Mac Pulse
+## Download Mac Pulse
 
-[Download Mac Pulse 1.0 for macOS](https://github.com/shrotshahariar/Mac-Pulse/releases/download/v1.0/Mac-Pulse-1.0.zip). Unzip the app and move it to Applications. This build is ad-hoc signed and has not been notarized by Apple, so macOS may block it on first launch. The [release notes and checksum](https://github.com/shrotshahariar/Mac-Pulse/releases/tag/v1.0) are available on GitHub.
+[Download Mac Pulse 1.0 for macOS](https://github.com/shrotshahariar/Pulse/releases/download/v1.0/Mac-Pulse-1.0.zip). Unzip the app and move it to Applications. This build is ad-hoc signed and has not been notarized by Apple, so macOS may block it on first launch. The [release notes and checksum](https://github.com/shrotshahariar/Pulse/releases/tag/v1.0) are available on GitHub.
 
-## Inside the dashboard
+## From the menu bar to the detail
+
+When your Mac slows down, click the CPU or memory reading to inspect what changed. When a transfer feels slow, open Network Activity and hover over the graph to see the speed at that moment.
 
 | To see… | Open… |
 | --- | --- |
@@ -27,6 +29,6 @@ Monitoring history stays on your Mac. CPU and memory history covers up to 30 day
 
 ## Support and feedback
 
-Read the [FAQ](FAQ.md) for setup and usage questions. To report a bug or suggest a feature, [open an issue](https://github.com/shrotshahariar/Mac-Pulse/issues). Include your Mac Pulse and macOS versions when reporting a bug.
+Read the [FAQ](FAQ.md) for setup and usage questions. To report a bug or suggest a feature, [open an issue](https://github.com/shrotshahariar/Pulse/issues). Include your Mac Pulse and macOS versions when reporting a bug.
 
 Developed by [Shahariar Jaman (@shrotshahariar)](https://github.com/shrotshahariar). Mac Pulse is proprietary freeware. © 2026 shrotshahariar. All rights reserved.
