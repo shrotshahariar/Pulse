@@ -1,6 +1,6 @@
 <p align="center"><img src="./mac-pulse-icon.png" alt="Mac Pulse app icon" width="80" height="80"></p>
-<h1 align="center">Pulse</h1>
-<p align="center">The official home of <strong>Mac Pulse by Shahariar Jaman</strong>.</p>
+<h1 align="center">Pulse · macOS menu bar system monitor</h1>
+<p align="center"><strong>Mac Pulse by Shahariar Jaman</strong> shows CPU load, memory usage, available disk space, and network speeds in your Mac’s menu bar.</p>
 <p align="center"><strong>macOS 14 or later</strong> · Apple silicon and Intel · Free</p>
 
 [Releases](https://github.com/shrotshahariar/Pulse/releases) · [FAQ](FAQ.md) · [Contact the developer](CONTACT.md)
@@ -9,7 +9,7 @@
 
 [Download Mac Pulse 1.0 for macOS](https://github.com/shrotshahariar/Pulse/releases/download/v1.0/Mac-Pulse-1.0.zip). Unzip the app and move it to Applications. This build is ad-hoc signed and has not been notarized by Apple, so macOS may block it on first launch. The [release notes and checksum](https://github.com/shrotshahariar/Pulse/releases/tag/v1.0) are available on GitHub.
 
-## From the menu bar to the detail
+## Monitor CPU, memory, disk, and network activity
 
 When your Mac slows down, click the CPU or memory reading to inspect what changed. When a transfer feels slow, open Network Activity and hover over the graph to see the speed at that moment.
 
