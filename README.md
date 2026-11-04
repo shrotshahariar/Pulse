@@ -7,7 +7,7 @@
 
 ## Getting Mac Pulse
 
-The first public download is in preparation. When version 1.0 is available, you’ll find the app ZIP under **Assets** on the [Releases page](https://github.com/shrotshahariar/Mac-Pulse/releases).
+[Download Mac Pulse 1.0 for macOS](https://github.com/shrotshahariar/Mac-Pulse/releases/download/v1.0/Mac-Pulse-1.0.zip). Unzip the app and move it to Applications. This build is ad-hoc signed and has not been notarized by Apple, so macOS may block it on first launch. The [release notes and checksum](https://github.com/shrotshahariar/Mac-Pulse/releases/tag/v1.0) are available on GitHub.
 
 ## Inside the dashboard
 
