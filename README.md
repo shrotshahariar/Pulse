@@ -7,7 +7,7 @@
 
 ## Download Pulse
 
-[Download Pulse 1.1 for macOS](https://github.com/shrotshahariar/Pulse/releases/download/v1.1/Pulse-1.1.zip). Unzip the app and move it to Applications. This build is ad-hoc signed and has not been notarized by Apple, so macOS may block it on first launch. The [release notes and checksum](https://github.com/shrotshahariar/Pulse/releases/tag/v1.1) are available on GitHub.
+[Download Pulse 1 for macOS](https://github.com/shrotshahariar/Pulse/releases/download/1/Pulse-1.zip). Unzip the app and move it to Applications. This build is ad-hoc signed and has not been notarized by Apple, so macOS may block it on first launch. The [release notes and checksum](https://github.com/shrotshahariar/Pulse/releases/tag/1) are available on GitHub.
 
 ## Monitor CPU, memory, disk, and network activity
 
