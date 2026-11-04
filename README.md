@@ -1,4 +1,4 @@
-<p align="center"><img src="./mac-pulse-icon.png" alt="Pulse app icon" width="80" height="80"></p>
+<p align="center"><img src="./pulse-icon.png" alt="Pulse app icon" width="80" height="80"></p>
 <h1 align="center">Pulse · macOS menu bar system monitor</h1>
 <p align="center"><strong>Pulse by Shahariar Jaman</strong> shows CPU load, memory usage, available disk space, and network speeds in your Mac’s menu bar.</p>
 <p align="center"><strong>macOS 14 or later</strong> · Apple silicon and Intel · Free</p>
